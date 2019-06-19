@@ -36,7 +36,7 @@ div#ball + img {
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 /* <img src="images/kitty-5.png" alt="Kitty 5"> */
-/*__write_selector_here__*/ {
+input[type=""] {
   position: absolute;
   z-index: 3;
   top: 217px;
